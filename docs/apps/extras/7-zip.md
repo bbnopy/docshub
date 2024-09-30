@@ -45,3 +45,9 @@
 #### p7zip FreeBSD
 
 - :inbox_tray: встановлення з сайту FreeBSD за [:link: посиланням](https://freshports.org/archivers/p7zip/)
+
+### Android
+
+- :inbox_tray: встановлення з Google Play за [:link: посиланням](https://play.google.com/store/apps/details?id=org.joa.zipperplus7)
+- :inbox_tray: встановлення з Google Play за [:link: посиланням](https://play.google.com/store/apps/details?id=com.sociosoft.unzip)
+- :inbox_tray: встановлення з Google Play за [:link: посиланням](https://play.google.com/store/apps/details?id=org.joa.zipperplus7v2)
