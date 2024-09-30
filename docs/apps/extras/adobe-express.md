@@ -26,4 +26,4 @@
 
 ### Android
 
-- :inbox_tray: встановлення з Google Play за [:link: посиланням](https://play.google.com/store/apps/details?id=com.adobe.spark.post&hl=en_US)
+- :inbox_tray: встановлення з **Google Play** за [:link: посиланням](https://play.google.com/store/apps/details?id=com.adobe.spark.post&hl=en_US)
