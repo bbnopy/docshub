@@ -9,8 +9,8 @@
 
 ## Про Bitwarden
 
-| Описs | Інформація |
-| ----- | ---------- |
+| Опис | Інформація |
+| ---- | ---------- |
 | **версія package: програми** | :two: :zero: :two: :four: . :nine: . :one: |
 | :computer: **розробник** | 8bit Solutions LLC |
 | **сайт** | [:link: посилання](https://bitwarden.com) |
