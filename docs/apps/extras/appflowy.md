@@ -30,8 +30,8 @@
 - :inbox_tray: встановлення за допомогою **Flathub**:
   - вводимо команду у терміналі: `flatpak install flathub io.appflowy.AppFlowy`
 - :inbox_tray: встановлення за допомогою **Snap Store**:
-  - **версія :package: програми** latest stable команда для терміналу: `sudo snap install appflowy`
-  - **версія :package: програми** latest edge команда для терміналу: `sudo snap install appflowy --edge`
+  - **версія :package: програми** latest/stable команда для терміналу: `sudo snap install appflowy`
+  - **версія :package: програми** latest/edge команда для терміналу: `sudo snap install appflowy --edge`
 
 #### fedora WORKSTATION
 
