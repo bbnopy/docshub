@@ -17,16 +17,16 @@
 
 ## :inbox_tray: Встановлення
 
+- :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/ip7z/7zip/releases)
+
 ### :desktop_computer: Windows
 
-- :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/ip7z/7zip/releases)
 - :inbox_tray: встановлення з сайту за [:link: посиланням](https://www.7-zip.org/download.html)
 - :inbox_tray: встановлення з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/sevenzip/files/)
 - :inbox_tray: з :cloud: Хмарного сховища
 
 ### :penguin: Linux
 
-- :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/ip7z/7zip/releases)
 - :inbox_tray: з сайту за [:link: посиланням](https://www.7-zip.org/download.html)
 - :inbox_tray: встановлення з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/sevenzip/files/)
 
