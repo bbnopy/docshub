@@ -17,7 +17,7 @@
 
 ## :inbox_tray: Встановлення
 
-> :information_source: **Інформація:** інструкції по :inbox_tray: встановленню на різні операційні системи [:link: посиланням](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)
+> :information_source: **Інформація:** інструкції по :inbox_tray: встановленню на різні операційні системи з :octocat: за [:link: посиланням](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)
 
 ### :desktop_computer: Windows
 
