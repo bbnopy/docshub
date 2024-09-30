@@ -5,7 +5,7 @@
 
 ---
 
-:open_file_folder: **Розділ** :toolbox: *Графіка*
+:open_file_folder: **Розділ** :framed_picture: *Графіка*
 
 ## Про Adobe Express
 
