@@ -17,7 +17,7 @@
 
 ## :inbox_tray: Встановлення
 
-- :inbox_tray: встановлення з **Steam store** за [:link: посиланням](https://store.steampowered.com/app/365670/Blender/)s
+- :inbox_tray: встановлення з **Steam store** за [:link: посиланням](https://store.steampowered.com/app/365670/Blender/)
 
 ### :desktop_computer: Windows
 
