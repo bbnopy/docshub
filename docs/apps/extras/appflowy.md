@@ -18,6 +18,7 @@
 ## :inbox_tray: Встановлення
 
 - :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/AppFlowy-IO/AppFlowy/releases/tag/0.7.0)
+- :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/appflowy/files/0.7.0/)
 
 ### :desktop_computer: Windows
 
