@@ -18,6 +18,7 @@
 ## :inbox_tray: Встановлення
 
 - :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)
+- :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/alacritty.mirror/files/)
 
 ### :desktop_computer: Windows
 
