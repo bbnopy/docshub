@@ -3,9 +3,9 @@
 
 > :information_source: **Інформація:** Текстовий редактор від компанії Adobe, призначений для редагування JavaScript, HTML і CSS.
 
----
-
 :open_file_folder: **Розділ** :hammer_and_wrench: *Інструменти Розробника*
+
+---
 
 ## Про Brackets
 
