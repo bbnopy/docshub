@@ -20,6 +20,7 @@
 > :information_source: **Інформація:** Інтегруйте Bitwarden безпосередньо у свій улюблений браузер за допомогою розширень браузера для безперебійного перегляду. Так само можна використовувати у браузері.
 
 - :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/bitwarden/clients/releases)
+- :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/bitwarden-client-apps.mirror/files/)
 
 ### :desktop_computer: Windows
 
