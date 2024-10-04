@@ -3,9 +3,9 @@
 
 > :information_source: **Інформація:** Безпечний робочий простір для ваших вікі та проектів.
 
----
-
 :open_file_folder: **Розділ** :globe_with_meridians: *Інтернет*
+
+---
 
 ## Про AppFlowy
 
