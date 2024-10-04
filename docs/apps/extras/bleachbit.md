@@ -3,9 +3,9 @@
 
 > :information_source: **Інформація:** Очистіть систему та звільніть місце на диску
 
----
-
 :open_file_folder: **Розділ** :card_file_box: *Система*
+
+---
 
 ## Про BleachBit
 
