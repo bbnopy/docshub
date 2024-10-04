@@ -17,6 +17,8 @@
 
 ## :inbox_tray: Встановлення
 
+- :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/calibre-ebook-manager.mirror/files/)
+
 ### :desktop_computer: Windows
 
 - :inbox_tray: встановлення з сайту за [:link: посиланням](https://calibre-ebook.com/download_windows)
