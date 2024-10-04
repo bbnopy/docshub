@@ -20,3 +20,4 @@
 > :information_source: **Інформація:** :inbox_tray: Встановлюється на сервер.
 
 - :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/BookStackApp/BookStack/releases)
+- :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/bookstack.mirror/files/)
