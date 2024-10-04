@@ -3,9 +3,9 @@
 
 > :information_source: **Інформація:** Потужне :package: програмне забезпечення віддаленої допомоги.
 
----
-
 :open_file_folder: **Розділ** :globe_with_meridians: *Інтернет*
+
+---
 
 ## Про AnyDesk
 
