@@ -3,9 +3,9 @@
 
 > :information_source: **Інформація:** Швидкий, крос-платформний емулятор терміналу OpenGL
 
----
-
 :open_file_folder: **Розділ** :toolbox: *Інструменти*
+
+---
 
 ## Про Alacritty
 
