@@ -3,9 +3,9 @@
 
 > :information_source: **Інформація:** :package: Програма для редагування фотографій, яка виступає в ролі вільної альтернативи таким продуктам, як Adobe Lightroom і Apple Aperture.
 
----
-
 :open_file_folder: **Розділ** :framed_picture: *Графіка*
+
+---
 
 ## Про darktable
 
