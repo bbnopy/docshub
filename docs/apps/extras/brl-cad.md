@@ -3,9 +3,9 @@
 
 > :information_source: **Інформація:** САПР для 3D-проєктування.
 
----
-
 :open_file_folder: **Розділ** :hammer_and_wrench: *Інструменти Розробника*
+
+---
 
 ## Про BRL-CAD
 
