@@ -17,6 +17,8 @@
 
 ## :inbox_tray: Встановлення
 
+- :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/brave-browser.mirror/files/)
+
 ### :desktop_computer: Windows
 
 - :inbox_tray: встановлення з **Microsoft Store** за [:link: посиланням](https://apps.microsoft.com/store/detail/brave-browser/XP8C9QZMS2PC1T)
