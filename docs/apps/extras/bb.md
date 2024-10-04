@@ -3,9 +3,9 @@
 
 > :information_source: **Інформація:** Інтернет-браузер із відкритим вихідним кодом, розроблений компанією Brave Software Inc. на основі браузера Chromium.
 
----
-
 :open_file_folder: **Розділ** :globe_with_meridians: *Інтернет*
+
+---
 
 ## Про Brave
 
