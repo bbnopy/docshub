@@ -10,7 +10,7 @@
 ## Про git
 
 | Опис | Інформація |
-| ---- | ---------- |s
+| ---- | ---------- |
 | **версія :package: програми** | :two: . :four: :six: . :two: |
 | :computer: **розробник** | Junio Hamano and others |
 | **сайт** | [:link: посилання](https://git-scm.com) |
