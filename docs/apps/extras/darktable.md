@@ -18,15 +18,14 @@
 ## :inbox_tray: Встановлення
 
 - :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/darktable.mirror/files/)
+- :inbox_tray: встановлення з сайту за [:link: посиланням](https://www.darktable.org/install/)
 
 ### :desktop_computer: Windows
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://www.darktable.org/install/)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### :penguin: Linux
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://www.darktable.org/install/)
 - :inbox_tray: встановлення за допомогою **Flathub**:
   - вводимо команду у терміналі: `flatpak install flathub org.darktable.Darktable`
 - :inbox_tray: встановлення за допомогою **Snap Store**:
