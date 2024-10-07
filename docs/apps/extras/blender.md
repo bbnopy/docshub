@@ -11,23 +11,22 @@
 
 | Опис | Інформація |
 | ---- | ---------- |
-| **версія :package: програми** LTS | :four: . :two: |
+| LTS **версія :package: програми** | :four: . :two: . :two: |
 | :computer: **розробник** | Blender Foundation |
 | **сайт** | [:link: посилання](https://www.blender.org) |
 
 ## :inbox_tray: Встановлення
 
 - :inbox_tray: встановлення з **Steam store** за [:link: посиланням](https://store.steampowered.com/app/365670/Blender/)
+- :inbox_tray: встановлення з сайту за [:link: посиланням](https://www.blender.org/download/)
 
 ### :desktop_computer: Windows
 
 - :inbox_tray: встановлення з **Microsoft Store** за [:link: посиланням](https://apps.microsoft.com/store/detail/blender/9PP3C07GTVRH)
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://www.blender.org/download/)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### :penguin: Linux
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://www.blender.org/download/)
 - :inbox_tray: встановлення за допомогою **Flathub**:
   - вводимо команду у терміналі: `flatpak install flathub org.blender.Blender`
 - :inbox_tray: встановлення за допомогою **Snap Store**:
