@@ -12,7 +12,7 @@
 | Опис | Інформація |
 | ---- | ---------- |
 | **версія :package: програми** | :seven: . :three: :eight: . :two: |
-| :computer: **розробник** | 	Army Research Laboratory |
+| :computer: **розробник** | Army Research Laboratory |
 | **сайт** | [:link: посилання](https://brlcad.org/) |
 
 ## :inbox_tray: Встановлення
