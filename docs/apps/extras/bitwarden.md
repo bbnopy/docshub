@@ -21,16 +21,15 @@
 
 - :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/bitwarden/clients/releases)
 - :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/bitwarden-client-apps.mirror/files/)
+- :inbox_tray: встановлення з сайту за [:link: посиланням](https://bitwarden.com/download/)
 
 ### :desktop_computer: Windows
 
 - :inbox_tray: встановлення з **Microsoft Store** за [:link: посиланням](https://apps.microsoft.com/store/detail/bitwarden/9PJSDV0VPK04?hl=en-us&gl=us)
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://bitwarden.com/download/)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### :penguin: Linux
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://bitwarden.com/download/)
 - :inbox_tray: встановлення за допомогою **Flathub**(Unverified):
   - вводимо команду у терміналі: `flatpak install flathub com.bitwarden.desktop`
 - :inbox_tray: встановлення за допомогою **Snap Store**:
