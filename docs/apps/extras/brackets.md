@@ -26,8 +26,6 @@
 
 ### :penguin: Linux
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://github.com/brackets-cont/brackets/releases)
-
 > :information_source: **Інформація:** cprov-brackets is only available on the unstable edge channel. It could break and change often.
 
 - :inbox_tray: встановлення за допомогою **Snap Store**:
