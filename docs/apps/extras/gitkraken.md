@@ -17,14 +17,14 @@
 
 ## :inbox_tray: Встановлення
 
+- :inbox_tray: встановлення з сайту за [:link: посиланням](https://www.gitkraken.com/download)
+
 ### :desktop_computer: Windows
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://www.gitkraken.com/download)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### :penguin: Linux
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://www.gitkraken.com/download)
 - :inbox_tray: встановлення за допомогою **Flathub**(Unverified):
   - вводимо команду у терміналі: `flatpak install flathub com.axosoft.GitKraken`
 - :inbox_tray: встановлення **GitKraken Desktop** за допомогою **Snap Store**:
