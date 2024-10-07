@@ -17,6 +17,7 @@
 
 ## :inbox_tray: Встановлення
 
+- :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/vercel/hyper/releases)
 - :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/hyper.mirror/files/)
 - :inbox_tray: встановлення з сайту за [:link: посилання](https://hyper.is/#installation)
 
