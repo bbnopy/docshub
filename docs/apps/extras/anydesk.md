@@ -19,14 +19,14 @@
 
 ## :inbox_tray: Встановлення
 
+- :inbox_tray: встановлення з сайту за [:link: посиланням](https://anydesk.com/en/downloads/)
+
 ### :desktop_computer: Windows
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://anydesk.com/en/downloads/windows)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### :penguin: Linux
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://anydesk.com/en/downloads/)
 - :inbox_tray: встановлення за допомогою **Flathub**:
   - вводимо команду у терміналі: `flatpak install flathub com.anydesk.Anydesk`
 
