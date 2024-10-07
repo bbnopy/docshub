@@ -19,10 +19,10 @@
 
 - :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)
 - :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/alacritty.mirror/files/)
+- :inbox_tray: встановлення з сайту за [:link: посиланням](https://alacritty.org/index.html)
 
 ### :desktop_computer: Windows
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://alacritty.org/index.html)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### :penguin: Linux
@@ -35,8 +35,7 @@
 #### fedora WORKSTATION
 
 - :inbox_tray: встановлення за допомогою терміналу: `sudo dnf install alacritty`
-
-> :information_source: **Інформація:** :inbox_tray: встановлення додаткових бібліотек.
+- :inbox_tray: встановлення додаткових бібліотек:
 
 ```bash
 dnf install cmake freetype-devel fontconfig-devel libxcb-devel libxkbcommon-devel g++
