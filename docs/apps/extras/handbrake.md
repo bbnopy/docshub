@@ -19,15 +19,14 @@
 
 - :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/HandBrake/HandBrake/releases)
 - :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/handbrake.mirror/files/)
+- :inbox_tray: встановлення з сайту за [:link: посилання](https://handbrake.fr/downloads.php)
 
 ### :desktop_computer: Windows
 
-- :inbox_tray: встановлення з сайту за [:link: посилання](https://handbrake.fr/downloads.php)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### :penguin: Linux
 
-- :inbox_tray: встановлення з сайту за [:link: посилання](https://handbrake.fr/downloads.php)
 - :inbox_tray: встановлення за допомогою **Flathub**:
   - вводимо команду у терміналі: `flatpak install flathub fr.handbrake.ghb`
 
