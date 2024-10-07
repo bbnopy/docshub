@@ -18,15 +18,13 @@
 ## :inbox_tray: Встановлення
 
 - :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/gparted/files/)
+- :inbox_tray: встановлення з сайту за [:link: посилання](https://gparted.org/download.php)
 
 ### :desktop_computer: Windows
 
-- :inbox_tray: встановлення з сайту за [:link: посилання](https://gparted.org/download.php)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### Linux &#128039;
-
-- :inbox_tray: встановлення з сайту за [:link: посилання](https://gparted.org/download.php)
 
 #### fedora WORKSTATION
 
