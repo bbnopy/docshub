@@ -17,16 +17,16 @@
 
 ## :inbox_tray: Встановлення
 
+- :inbox_tray: встановлення з сайту за [:link: посиланням](https://discord.com/download)
+
 ### :desktop_computer: Windows
 
 - :inbox_tray: встановлення з **Microsoft Store** за [:link: посиланням](https://apps.microsoft.com/store/detail/discord/XPDC2RH70K22MN)
 - :inbox_tray: встановлення з **Epic Games store** за [:link: посиланням](https://store.epicgames.com/en-US/p/discord)
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://discord.com/download)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### :penguin: Linux
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://discord.com/download)
 - :inbox_tray: встановлення за допомогою **Flathub**:
   - вводимо команду у терміналі: `flatpak install flathub com.discordapp.Discord`
 - :inbox_tray: встановлення за допомогою **Snap Store**:
