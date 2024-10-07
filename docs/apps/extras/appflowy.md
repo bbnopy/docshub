@@ -19,15 +19,14 @@
 
 - :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/AppFlowy-IO/AppFlowy/releases/tag/0.7.0)
 - :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/appflowy/files/0.7.0/)
+- :inbox_tray: встановлення з сайту за [:link: посиланням](https://appflowy.io/download)
 
 ### :desktop_computer: Windows
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://appflowy.io/downloaded)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### :penguin: Linux
 
-- :inbox_tray: встановлення з сайту за [:link: посиланням](https://appflowy.io/download)
 - :inbox_tray: встановлення за допомогою **Flathub**:
   - вводимо команду у терміналі: `flatpak install flathub io.appflowy.AppFlowy`
 - :inbox_tray: встановлення за допомогою **Snap Store**:
