@@ -17,6 +17,7 @@
 
 ## :inbox_tray: Встановлення
 
+- :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/logseq/logseq/releases)
 - :inbox_tray: встановлення з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/logseq.mirror/files/)
 - :inbox_tray: встановлення з сайту за [:link: посилання](https://logseq.com/downloads)
 
