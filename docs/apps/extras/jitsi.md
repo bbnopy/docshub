@@ -18,15 +18,14 @@
 ## :inbox_tray: Встановлення
 
 - :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/jitsi-desktop.mirror/files/)
+- :inbox_tray: встановлення з сайту за [:link: посилання](https://desktop.jitsi.org/Main/Download.html)
 
 ### :desktop_computer: Windows
 
-- :inbox_tray: встановлення з сайту за [:link: посилання](https://desktop.jitsi.org/Main/Download.html)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### :penguin: Linux
 
-- :inbox_tray: встановлення з сайту за [:link: посилання](https://desktop.jitsi.org/Main/Download.html)
 - :inbox_tray: встановлення за допомогою **Flathub**(Unverified):
   - вводимо команду у терміналі: `flatpak install flathub org.jitsi.jitsi-meet`
   
