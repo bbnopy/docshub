@@ -17,6 +17,7 @@
 
 ## :inbox_tray: Встановлення
 
+- :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/keepassxreboot/keepassxc/releases)
 - :inbox_tray: встановлення з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/keepassxc.mirror/files/)
 
 ### :desktop_computer: Windows
