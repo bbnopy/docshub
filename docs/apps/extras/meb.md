@@ -10,7 +10,7 @@
 ## Про Microsoft Edge Browser
 
 | Опис | Інформація |
-| ---- | ---------- |129.0.2792.79
+| ---- | ---------- |
 | **версія :package: програми** | :one: :two: :nine: . :zero: . :two: :seven: :nine: :two: . :seven: :nine: |
 | :computer: **розробник** | Microsoft Corporation |
 | **сайт** | [:link: посилання](https://www.microsoft.com/uk-ua/edge?form=MI13F3&OCID=MI13F3) |
