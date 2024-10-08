@@ -19,15 +19,14 @@
 
 - :inbox_tray: встановити з :octocat: за [:link: посиланням](https://github.com/laurent22/joplin/releases)
 - :inbox_tray: встановити з **SOURCEFORGE** за [:link: посиланням](https://sourceforge.net/projects/joplin.mirror/files/)
+- :inbox_tray: встановлення з сайту за [:link: посилання](https://joplinapp.org/help/install/)
 
 ### :desktop_computer: Windows
 
-- :inbox_tray: встановлення з сайту за [:link: посилання](https://joplinapp.org/help/install/)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
 ### :penguin: Linux
 
-- :inbox_tray: встановлення з сайту за [:link: посилання](https://joplinapp.org/help/install/)
 - :inbox_tray: встановлення за допомогою **Flathub**(Unverified):
   - вводимо команду у терміналі: `flatpak install flathub net.cozic.joplin_desktop`
 
