@@ -24,6 +24,10 @@
 - :inbox_tray: встановлення з **Microsoft Store** за [:link: посилання](https://apps.microsoft.com/store/detail/microsoft-365-office/9WZDNCRD29V9)
 - :inbox_tray: встановлення з :cloud: Хмарного сховища
 
+### Android
+
+- :inbox_tray: встановлення з **Google Play** за [:link: посиланням](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en_US)
+
 ## :package: Програми, що входять до Microsoft 365
 
 - Word
