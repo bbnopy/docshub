@@ -1124,7 +1124,7 @@ nvim
 
 >&#128161; Для запам'ятовування комбінацій клавіш. Просто натисніть будь-яку клавішу, наприклад <kbd>Space</kbd>, і ви побачите спливаюче вікно з усіма можливими комбінаціями клавіш, що починаються з <kbd>Space</kbd>.
 
-![Якщо натиснути <kbd>Space</kbd>](image/lazyvim-keymaps.png "LazyVim Keymaps")
+![LazyVim Keymaps](image/lazyvim-keymaps.png)
 
 #### Загальні
 
