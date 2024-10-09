@@ -22,3 +22,7 @@
 ### :desktop_computer: Windows
 
 - :inbox_tray: встановлення з **Microsoft Store** за [:link: посилання](https://apps.microsoft.com/detail/9P1HQ5TQZMGD?query=wezterm&hl=uk-ua&gl=UA)
+
+### Android
+
+- :inbox_tray: встановлення з **Google Play** за [:link: посиланням](https://play.google.com/store/apps/details?id=com.microsoft.loop&hl=en_US)
