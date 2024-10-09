@@ -27,7 +27,7 @@
 
 ### :penguin: Linux
 
->&#128161; Зазвичай `python` встановлено в операційній системі
+> :information_source: **Інформація:** Зазвичай `python` встановлено в операційній системі
 
 #### fedora WORKSTATION
 
